@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kf6012/assessment/part2/static/css/main.da22786b.chunk.css",
+    "main.js": "/kf6012/assessment/part2/static/js/main.56ebbca7.chunk.js",
+    "main.js.map": "/kf6012/assessment/part2/static/js/main.56ebbca7.chunk.js.map",
+    "runtime-main.js": "/kf6012/assessment/part2/static/js/runtime-main.8613164b.js",
+    "runtime-main.js.map": "/kf6012/assessment/part2/static/js/runtime-main.8613164b.js.map",
+    "static/js/2.a4d797ca.chunk.js": "/kf6012/assessment/part2/static/js/2.a4d797ca.chunk.js",
+    "static/js/2.a4d797ca.chunk.js.map": "/kf6012/assessment/part2/static/js/2.a4d797ca.chunk.js.map",
+    "static/js/3.89d37309.chunk.js": "/kf6012/assessment/part2/static/js/3.89d37309.chunk.js",
+    "static/js/3.89d37309.chunk.js.map": "/kf6012/assessment/part2/static/js/3.89d37309.chunk.js.map",
+    "index.html": "/kf6012/assessment/part2/index.html",
+    "static/css/main.da22786b.chunk.css.map": "/kf6012/assessment/part2/static/css/main.da22786b.chunk.css.map",
+    "static/js/2.a4d797ca.chunk.js.LICENSE.txt": "/kf6012/assessment/part2/static/js/2.a4d797ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8613164b.js",
+    "static/js/2.a4d797ca.chunk.js",
+    "static/css/main.da22786b.chunk.css",
+    "static/js/main.56ebbca7.chunk.js"
+  ]
+}
